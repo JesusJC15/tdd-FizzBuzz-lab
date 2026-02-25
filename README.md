@@ -69,7 +69,7 @@ Modifica ```FizzBuzz.java``` para pasar estas pruebas:
 ## Paso 4: Ejecutar y validar las pruebas
 Corre nuevamente ```mvn test``` y verifica que todas las pruebas pasen.
 
-## Descripción del Proyecto
+## Descripción de lo realizado en el Laboratorio
 
 ### ¿Qué se implementó?
 
